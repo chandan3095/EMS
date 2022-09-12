@@ -166,7 +166,7 @@ body {
 .Emp-worksheet-heading {
     font-size: 30px;
     font-weight: 600;
-    margin: 3.5rem 0;
+    margin: 3rem 0;
 }
 
 .work-details-sheet {
@@ -320,6 +320,9 @@ body {
 /* Log out page End*/
 
 /* Employee data page Start */
+.emp-table-heading{
+    color: royalblue;
+}
 .emp-table-heading h4 {
     width: 10vw;
     height: 5vh;
